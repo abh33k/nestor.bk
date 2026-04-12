@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "socket": {
+    "path": "/home/abheek/.openclaw/exec-approvals.sock",
+    "[REDACTED]
+  },
+  "defaults": {},
+  "agents": {}
+}

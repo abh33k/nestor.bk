@@ -1,0 +1,6 @@
+CRON_TZ=Asia/Singapore
+XDG_RUNTIME_DIR=/run/user/1000
+PATH=/home/abheek/.npm-global/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+0 4 * * * /home/abheek/.openclaw/workspace/daily-maintenance.sh
+45 4 * * * /home/abheek/.openclaw/workspace/github-backup-runner.sh
+35 17 * * * /home/abheek/.openclaw/workspace/daily-maintenance.sh
